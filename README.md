@@ -11,8 +11,7 @@
   <br />
 
   <!-- App Screenshot Preview -->
-  <img width="100%" alt="App Preview" src="YOUR_SCREENSHOT_LINK_HERE" />
-
+  <img width="1079" height="2048" alt="Image" src="https://github.com/user-attachments/assets/94930596-c8cb-415a-8bce-a9dec66b30d7" />
 </div>
 
 ---
