@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pastel Contacts</string>
+    <string name="search_hint">Search contacts by name or phone...</string>
+    <string name="my_contacts_title">My Contacts 🌸</string>
+    <string name="add_contact">Add New Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+</resources>
